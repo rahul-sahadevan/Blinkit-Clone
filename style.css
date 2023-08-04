@@ -185,6 +185,13 @@
     }
     .my-catogory-row>div{
         margin-bottom: 10px;
+    
+    }
+    .my-catogory-row{
+        align-items: center;
+    }
+    .my-catogory-div{
+        margin-left: 100px;
     }
     .useful-links{
         flex-wrap: wrap;
@@ -192,6 +199,7 @@
     .des{
         display: none;
     }
+    
   
 }
 @media screen and (max-width:668px){
